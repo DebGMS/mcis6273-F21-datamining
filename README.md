@@ -1,1 +1,1 @@
-# mcis6273-F21-datamining
+# This is data mining project
